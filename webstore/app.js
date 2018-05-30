@@ -35,6 +35,8 @@ app.use('/computer',computer);
 app.use('/wines',wines);
 app.use('/glasses',glasses);
 app.use('/sports',sports);
+app.use('/restaurants',restaurants);
+app.use('/wines',wines);
 
 
 
