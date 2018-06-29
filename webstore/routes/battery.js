@@ -4,8 +4,8 @@ var cors = require('cors');
 var pool = require('../helper/ConnectionPool');
 var router = express.Router();
 var options={
-    "origin": "*",
-    "methods": "GET",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-methods": "GET",
     "preflightContinue": false,
     "optionsSuccessStatus": 204
   }
@@ -15,7 +15,8 @@ var options={
         connection.query("select * from battery",function(error,results,fields){
             if (error) throw error;
             var data=JSON.stringify(results);
-            res.send(data);
+            var s =JSON.parse(data)
+            res.json(s);
             connection.release();
         }); 
 
