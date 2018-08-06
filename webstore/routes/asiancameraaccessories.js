@@ -17,8 +17,10 @@ var options={
         connection.query("select * from   asiancameraaccessorie",function(error,results,fields){
             if (error) throw error;
             var data=JSON.stringify(results);
-            var s =JSON.parse(data)
+            var s =JSON.parse(data);
+            console.log(s);
             res.json(s);
+          
             connection.release();
         }); 
 

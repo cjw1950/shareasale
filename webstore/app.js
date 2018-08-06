@@ -69,31 +69,31 @@ app.use('/wines',wines);
 app.use('/fakeCigarette', fakeCigarette);
 app.use('/fakeCigarette2', fakeCigarette2);
 //grouping food
-// app.use('/caviar',caviar );
-// app.use('/cubanfood',cubanfood);
-// app.use('/juices',juices );
-// app.use('/spices', spices);
-// app.use('/gourmet ',gourmet);
-// app.use('/glutenfree', glutenfree);
-// app.use('/survivalfood ',survivalfood);
-// app.use('/tea',tea );
-// app.use('/weightloss',weightloss);
-// app.use('/juicetanks',juicetanks);
+app.use('/caviar',caviar );
+app.use('/cubanfood',cubanfood);
+app.use('/juices',juices );
+app.use('/spices', spices);
+app.use('/gourmet ',gourmet);
+app.use('/glutenfree', glutenfree);
+app.use('/survivalfood ',survivalfood);
+app.use('/tea',tea );
+app.use('/weightloss',weightloss);
+app.use('/juicetanks',juicetanks);
 // //tech
 
-// app.use('/asiantech',asiantech );
-// app.use('/battery1',batterAccesories1 );
-// app.use('/battery2',batterAccesories1 );
-// app.use('/cable',cable );
-// app.use('/cellphone',cellphone );
-// app.use('/computerAccesories',computerAccesories  );
-// app.use('/chinesetech',chinesetech );
-// app.use('/harddrives1',harddrives1 );
-// app.use('/harddrives2',harddrives2 );
-// app.use('/smartphone',smartphone);
-// app.use('/headphones', headphones );
-// app.use('/speakers',speakers );
-// app.use('/spy',spy );
+app.use('/asiantech',asiantech );
+app.use('/battery1',batterAccesories1 );
+app.use('/battery2',batterAccesories1 );
+app.use('/cable',cable );
+app.use('/cellphone',cellphone );
+app.use('/computerAccesories',computerAccesories  );
+app.use('/chinesetech',chinesetech );
+app.use('/harddrives1',harddrives1 );
+app.use('/harddrives2',harddrives2 );
+app.use('/smartphone',smartphone);
+app.use('/headphones', headphones );
+app.use('/speakers',speakers );
+app.use('/spy',spy );
 
 
 

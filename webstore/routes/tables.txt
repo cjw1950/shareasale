@@ -1,0 +1,65 @@
++ ------------------------- +
+| Tables_in_shareasale      |
++ ------------------------- +
+|        |
+|       |
+|     |asiancameraaccessorie empty
+|     |automobileaccessories  problem
+|                 |
+| battery                   |
+| batteryaccessorie  nothing       |
+| batteryaccessoriesnew   doesnt exist  |
+| cablesandaccerories  problem     |
+|                  |
+| caviar                    |
+| cellphones                |
+| chineseshopqs_electronic  |
+| commonfurs     problem           |
+| compaccessories     problems      |
+| computeraccessories       |
+| cubanfoodmarket           |
+| e_cigerates               |
+| ecigarette_2              |
+| educationtoygames         |
+| everykey                  |
+| exoticjuices              |
+| foodspicecomplete         |
+| furs problems                     |
+| glasses                   |
+| gourmat_food              |
+| handsgroups               |
+| harddrivescomputer        |
+| hardrives                 |
+| hockeybeermug             |
+| ink1                      |
+| ink2                      |
+| inkcartrag2               |
+| inkcartrage3              |
+| inkcartragw               |
+| interactiveadbrokers      |
+| juicetanks                |
+| karmabracelet             |
+| katzglutenfreebakedgoods  |
+| laptoppartsaccessories    |
+| moonshineliguar           |
+| paraphaniliasports        |
+| ravensmoonvapor           |
+| restuarant_equip          |
+| skinkin                   |
+| smartphones               |
+| sport_outdoor             |
+| sportapapanalia           |
+| sportwear                 |
+| spyingequipment           |
+| survivalfood              |
+| teaanequipment            |
+| televisionaccesorie       |
+| televisionsets            |
+| tshirts                   |
+| usbchargers               |
+| weightlossplan            |
+| wine                      |
+| wirelessheadphones        |
+| wirelessspeakers          |
++ ------------------------- +
+60 rows
